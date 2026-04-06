@@ -1,4 +1,4 @@
-name: sumit
+name: sumit14228
 
 on::
   push:
@@ -9,5 +9,5 @@ on::
        runs-on: ubuntu-latest
 
           steps:
-             - name: Greetings
+             -name: Greetings
                run: echo " Hello from apun "
